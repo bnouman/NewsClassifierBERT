@@ -63,9 +63,7 @@ The notebook evaluates the model using:
 
 ## Deployment
 
-To create a simple web app interface using Gradio:
-
-Code already added in the notebook file for deployment.
+Deployment has been made already in the notebook file.
 
 ---
 
